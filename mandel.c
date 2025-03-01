@@ -8,14 +8,7 @@
 
     Ce programme permet de générer une image de l'ensemble de mandelbrot avec les paramètres d'affichage souhaités par l'utilisateur.
     On apprend que les paramètres du programme (la zone dans le plan complexe et la taille de l'image) permettent d'explorer différentes parties de l'ensemble, ce qui donne des motifs très très beaux.
-
-    Réponse aux questions:
-    La question:<Enfin, la base du nom du fichier ne devra pas excéder STRMAX - 5 caractères (pourquoi ?)>
-    Réponse: Cette limite est imposée afin de laisser de l'espace à .ppm donc 4 caractère, plus le caractère nul ce qui fait 5 d'où STRMAX-5
-*/
-
-/*
-    Estimation de ma note : 19/20
+    
 */
 
 #include <stdio.h>

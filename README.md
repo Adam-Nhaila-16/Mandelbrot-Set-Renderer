@@ -11,12 +11,10 @@ Prérequis
 	•	macOS (ou Linux) avec un compilateur C (Clang ou GCC).
 	•	Pour macOS, installer les Command Line Tools si nécessaire :
 
-xcode-select --install
+	•	xcode-select --install
 
 
-	•	(Optionnel) Homebrew :
-
-brew install gcc
+	•	(Optionnel) Homebrew : brew install gcc
 
 Compilation
 
